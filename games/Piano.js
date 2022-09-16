@@ -9,37 +9,29 @@ Use A & D to move the arrow, press W to play note
 
 // notes
 const c = tune`
-500,
 500: c4^500,
-15000`;
+15500`;
 const d = tune`
-500,
 500: d4^500,
-15000`;
+15500`;
 const e = tune`
-500,
 500: e4^500,
-15000`;
+15500`;
 const f = tune`
-500,
 500: f4^500,
-15000`;
+15500`;
 const g = tune`
-500,
 500: g4^500,
-15000`;
+15500`;
 const a = tune`
-500,
 500: a4^500,
-15000`;
+15500`;
 const b = tune`
-500,
 500: b4^500,
-15000`;
+15500`;
 const high_c = tune`
-500,
 500: c5^500,
-15000`;
+15500`;
 
 const arrow = "a";
 const wall = "w";
